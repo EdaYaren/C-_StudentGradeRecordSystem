@@ -42,16 +42,20 @@ Tablo adı: `Tbl_Lesson`
 ### 1️⃣ Giriş Ekranı
 - Kullanıcı, öğrenci numarasını girerek uygun ekrana yönlendirilir.
 
-![Giriş Ekranı](https://via.placeholder.com/800x400.png?text=Giri%C5%9F+Ekran%C4%B1)
+<p align="center">
+  <img src="https://github.com/EdaYaren/C-_StudentGradeRecordSystem/blob/main/Giri%C5%9F%20Ekran%C4%B1.png" alt="Giriş Ekranı" width="400">
+</p>
+
 
 ---
 
 ### 2️⃣ Öğrenci Detay Ekranı
 - Öğrenci sınav notlarını ve genel durumunu bu ekranda görüntüleyebilir.
 
-![Öğrenci Detay Ekranı](https://via.placeholder.com/800x400.png?text=%C3%96%C4%9Frenci+Detay+Ekran%C4%B1)
-
-![Öğretmen Detay Ekranı](https://via.placeholder.com/800x400.png?text=%C3%96%C4%9Fretmen+Detay+Ekran%C4%B1)
+<p align="center">
+  <img src="https://github.com/EdaYaren/C-_StudentGradeRecordSystem/blob/main/%C3%96%C4%9Frenci%20Giri%C5%9Fi.png" alt="Giriş Ekranı" width="400">
+  <img src="https://github.com/EdaYaren/C-_StudentGradeRecordSystem/blob/main/%C3%96%C4%9Frenci%20Detay%20Ekran%C4%B1.png" alt="Öğrenci Detay Ekranı" width="300">
+</p>
 
 ---
 
@@ -61,9 +65,11 @@ Tablo adı: `Tbl_Lesson`
   - **Not Güncelleme**
   - **Genel Ortalama ve Başarı Durumu Analizi**
 
-![Öğretmen Detay Ekranı](https://via.placeholder.com/800x400.png?text=%C3%96%C4%9Fretmen+Detay+Ekran%C4%B1)
+<p align="center">
+  <img src="https://github.com/EdaYaren/C-_StudentGradeRecordSystem/blob/main/%C3%96%C4%9Fretmen%20Giri%C5%9Fi.png" alt="Giriş Ekranı" width="300">
+  <img src="https://github.com/EdaYaren/C-_StudentGradeRecordSystem/blob/main/%C3%96%C4%9Fretmen%20Detay%20Ekran%C4%B1.png" alt="Öğrenci Detay Ekranı" width="700">
+</p>
 
-![Öğretmen Detay Ekranı](https://via.placeholder.com/800x400.png?text=%C3%96%C4%9Fretmen+Detay+Ekran%C4%B1)
 ---
 
 ## 🛠️ Kullanılan Teknolojiler
