@@ -1,0 +1,13 @@
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Öğrenci Not Kayıt Sistemi\ÖğrenciNotKayıtSistemi\ÖğrenciNotKayıtSistemi\bin\Debug\ÖğrenciNotKayıtSistemi.exe.config
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Öğrenci Not Kayıt Sistemi\ÖğrenciNotKayıtSistemi\ÖğrenciNotKayıtSistemi\bin\Debug\ÖğrenciNotKayıtSistemi.exe
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Öğrenci Not Kayıt Sistemi\ÖğrenciNotKayıtSistemi\ÖğrenciNotKayıtSistemi\bin\Debug\ÖğrenciNotKayıtSistemi.pdb
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Öğrenci Not Kayıt Sistemi\ÖğrenciNotKayıtSistemi\ÖğrenciNotKayıtSistemi\obj\Debug\ÖğrenciNotKayıtSistemi.csproj.AssemblyReference.cache
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Öğrenci Not Kayıt Sistemi\ÖğrenciNotKayıtSistemi\ÖğrenciNotKayıtSistemi\obj\Debug\ÖğrenciNotKayıtSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Öğrenci Not Kayıt Sistemi\ÖğrenciNotKayıtSistemi\ÖğrenciNotKayıtSistemi\obj\Debug\ÖğrenciNotKayıtSistemi.FrmGiris.resources
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Öğrenci Not Kayıt Sistemi\ÖğrenciNotKayıtSistemi\ÖğrenciNotKayıtSistemi\obj\Debug\ÖğrenciNotKayıtSistemi.FrmOgrenciDetay.resources
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Öğrenci Not Kayıt Sistemi\ÖğrenciNotKayıtSistemi\ÖğrenciNotKayıtSistemi\obj\Debug\ÖğrenciNotKayıtSistemi.Properties.Resources.resources
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Öğrenci Not Kayıt Sistemi\ÖğrenciNotKayıtSistemi\ÖğrenciNotKayıtSistemi\obj\Debug\ÖğrenciNotKayıtSistemi.csproj.GenerateResource.cache
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Öğrenci Not Kayıt Sistemi\ÖğrenciNotKayıtSistemi\ÖğrenciNotKayıtSistemi\obj\Debug\ÖğrenciNotKayıtSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Öğrenci Not Kayıt Sistemi\ÖğrenciNotKayıtSistemi\ÖğrenciNotKayıtSistemi\obj\Debug\ÖğrenciNotKayıtSistemi.exe
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Öğrenci Not Kayıt Sistemi\ÖğrenciNotKayıtSistemi\ÖğrenciNotKayıtSistemi\obj\Debug\ÖğrenciNotKayıtSistemi.pdb
+C:\Users\Yaren\Desktop\Sertifika Programları Kaynaklar\C# Projeler\Öğrenci Not Kayıt Sistemi\ÖğrenciNotKayıtSistemi\ÖğrenciNotKayıtSistemi\obj\Debug\ÖğrenciNotKayıtSistemi.FrmOgretmenDetay.resources
